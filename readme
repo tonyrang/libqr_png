@@ -1,0 +1,2 @@
+0.apt-get install libpng16-dev
+1.use libpng16	-> -lpng
