@@ -1,2 +1,5 @@
+first commit link:
+	https://github.com/invxp/libqrencode
+	https://github.com/fukuchi/libqrencode
 0.apt-get install libpng16-dev
 1.use libpng16	-> -lpng
